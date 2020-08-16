@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "455744915475",
+    "firebase_url": "https://social-app-937b4.firebaseio.com",
+    "project_id": "social-app-937b4",
+    "storage_bucket": "social-app-937b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455744915475:android:3730d941ec6ebf0d9b17e6",
+        "android_client_info": {
+          "package_name": "com.earthy.ourapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455744915475-2clm7nge09igdbkdsv53ah9l7btvkpmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB20xF0ug0A6BSnwPPu6pE3Z30WMvVv41U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455744915475-2clm7nge09igdbkdsv53ah9l7btvkpmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
